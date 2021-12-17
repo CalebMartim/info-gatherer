@@ -1,0 +1,25 @@
+{
+  "name": "info-gatherer",
+  "version": "1.0.0",
+  "description": "* Site exclusivo para coletar informações de visitantes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalebMartim/info-gatherer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CalebMartim/info-gatherer/issues"
+  },
+  "homepage": "https://github.com/CalebMartim/info-gatherer#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "node-fetch": "^2.6.1"
+  }
+}
