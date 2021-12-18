@@ -21,6 +21,8 @@
   "dependencies": {
     "express": "^4.17.2",
     "firebase": "^9.6.1",
-    "node-fetch": "^2.6.1"
+    "netlify-lambda": "^2.0.15",
+    "node-fetch": "^2.6.1",
+    "serverless-http": "^2.7.0"
   }
 }
