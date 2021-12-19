@@ -3,7 +3,7 @@ import { ip, get_ip } from "./Ip_grabber";
 
 function App() {
   const [centralImage, setCentralImage] = useState(
-    "https://c.tenor.com/J3IFw6SF46MAAAAC/anime-girl.gif"
+    "https://i.imgur.com/5ibxj3z.png"
   );
 
   const [display, setDisplay] = useState("display_none");
